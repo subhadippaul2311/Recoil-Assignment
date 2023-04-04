@@ -1,0 +1,23 @@
+.mainContainer{
+    height:15em;
+    width:40em;
+    background-color:aquamarine;
+    margin-left:35em;
+    margin-top:10em;
+    border:2px solid;
+}
+.home{
+ margin-top:2em;
+ margin-left:2em;
+}
+
+.button{
+    margin-left:15em;
+    margin-top:3em;
+    width:100px;
+    height:30px;
+    border-radius:10px;
+    background-color:brown;
+    color:white;
+    cursor:pointer
+}
